@@ -7,7 +7,7 @@ int main ()
 	char number[10];
 
 
-	printf("¼ıÀÚ¸¦ ÀÔ·ÂÇÏ½Ã¿À:\n");
+	printf("ìˆ«ìë¥¼ ":\n");
 	gets(number);
 	printf("\n");
 
