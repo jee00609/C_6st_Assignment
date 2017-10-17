@@ -7,7 +7,7 @@ int main ()
 	char number[10];
 
 
-	printf("숫자를 ":\n");
+	printf("숫자를 입력하시오":\n");
 	gets(number);
 	printf("\n");
 
